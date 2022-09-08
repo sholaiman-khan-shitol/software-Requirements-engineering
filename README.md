@@ -1,1 +1,2 @@
-# -Airlines-Ticket-Reservation-System-
+# Airlines-Ticket-Reservation-System
+This is a project for software requirements engineering. Our group consists of three people.This is an airline ticket reservation system. This project covers all of the information of all of the tasks completed throughout the Air Ticket Reservation System Project's software requirement elicitation process and contains all of the project's specifics.We gather information and create a report.
